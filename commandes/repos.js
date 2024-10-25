@@ -37,7 +37,7 @@ const date = moment().format('DD/MM/YYYY');
       *𝗣𝗢𝗣𝗞𝗜𝗗 𝗠𝗗 𝗜𝗡𝗙𝗢* 
 ❒───────────────────❒
 *𝗚𝗜𝗧𝗛𝗨𝗕 𝗟𝗜𝗡𝗞*
-> https://github.com/Popkiddevs/NORMAL-BOT-MD
+> https://github.com/Enzopop254/POPKID-MD
 
 *𝗠𝗬 𝗖𝗛𝗔𝗡𝗡𝗘𝗟*
 > https://whatsapp.com/channel/0029VadQrNI8KMqo79BiHr3l
